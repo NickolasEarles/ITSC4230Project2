@@ -1,6 +1,10 @@
 {
   "resources": [
+    {"id":{"name":"Obj_PlayerShot","path":"objects/Obj_PlayerShot/Obj_PlayerShot.yy",},"order":1,},
+    {"id":{"name":"Spr_PlayerShot","path":"sprites/Spr_PlayerShot/Spr_PlayerShot.yy",},"order":2,},
     {"id":{"name":"level_1","path":"rooms/level_1/level_1.yy",},"order":2,},
+    {"id":{"name":"Spr_player","path":"sprites/Spr_player/Spr_player.yy",},"order":1,},
+    {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"order":0,},
     {"id":{"name":"how_to","path":"rooms/how_to/how_to.yy",},"order":1,},
     {"id":{"name":"animation_template","path":"sprites/animation_template/animation_template.yy",},"order":0,},
     {"id":{"name":"title_screen","path":"rooms/title_screen/title_screen.yy",},"order":0,},
@@ -47,7 +51,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.1.542",
+    "IDEVersion": "2.3.2.556",
   },
   "resourceVersion": "1.4",
   "name": "Silverwing_Vega",
