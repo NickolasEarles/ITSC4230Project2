@@ -4,6 +4,7 @@
     {"id":{"name":"Spr_background","path":"sprites/Spr_background/Spr_background.yy",},"order":4,},
     {"id":{"name":"Obj_enemy_3","path":"objects/Obj_enemy_3/Obj_enemy_3.yy",},"order":6,},
     {"id":{"name":"Obj_PlayerShot","path":"objects/Obj_PlayerShot/Obj_PlayerShot.yy",},"order":1,},
+    {"id":{"name":"Spr_temp_dead_foe","path":"sprites/Spr_temp_dead_foe/Spr_temp_dead_foe.yy",},"order":10,},
     {"id":{"name":"Spr_PlayerShot","path":"sprites/Spr_PlayerShot/Spr_PlayerShot.yy",},"order":2,},
     {"id":{"name":"Obj_enemy_shot","path":"objects/Obj_enemy_shot/Obj_enemy_shot.yy",},"order":8,},
     {"id":{"name":"Obj_button_start","path":"objects/Obj_button_start/Obj_button_start.yy",},"order":3,},
