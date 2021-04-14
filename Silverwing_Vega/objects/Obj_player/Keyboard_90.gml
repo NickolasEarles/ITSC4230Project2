@@ -1,6 +1,7 @@
 /// @DnDAction : YoYo Games.Common.If_Expression
 /// @DnDVersion : 1
 /// @DnDHash : 4E6CEA89
+/// @DnDComment : this code is causing an error
 /// @DnDArgument : "expr" "can_shoot"
 if(can_shoot)
 {
