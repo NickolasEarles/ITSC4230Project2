@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"Spr_enemy_shot","path":"sprites/Spr_enemy_shot/Spr_enemy_shot.yy",},"order":9,},
     {"id":{"name":"Spr_background","path":"sprites/Spr_background/Spr_background.yy",},"order":4,},
+    {"id":{"name":"Obj_healthbar","path":"objects/Obj_healthbar/Obj_healthbar.yy",},"order":9,},
     {"id":{"name":"Obj_enemy_3","path":"objects/Obj_enemy_3/Obj_enemy_3.yy",},"order":6,},
     {"id":{"name":"Obj_PlayerShot","path":"objects/Obj_PlayerShot/Obj_PlayerShot.yy",},"order":1,},
     {"id":{"name":"Spr_temp_dead_foe","path":"sprites/Spr_temp_dead_foe/Spr_temp_dead_foe.yy",},"order":10,},
