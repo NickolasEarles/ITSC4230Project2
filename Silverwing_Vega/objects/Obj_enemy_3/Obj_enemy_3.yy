@@ -25,7 +25,9 @@
   "physicsShapePoints": [],
   "eventList": [],
   "properties": [],
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"damage","path":"objects/Obj_enemy_1/Obj_enemy_1.yy",},"objectId":{"name":"Obj_enemy_1","path":"objects/Obj_enemy_1/Obj_enemy_1.yy",},"value":"50","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
