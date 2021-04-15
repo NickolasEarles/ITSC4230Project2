@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_enemy_shot",
-    "path": "sprites/Spr_enemy_shot/Spr_enemy_shot.yy",
+    "name": "Spr_enemy_shot1",
+    "path": "sprites/Spr_enemy_shot1/Spr_enemy_shot1.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,7 +20,11 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

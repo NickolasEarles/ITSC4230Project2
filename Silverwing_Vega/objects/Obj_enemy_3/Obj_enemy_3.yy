@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "Spr_temp_enemy",
-    "path": "sprites/Spr_temp_enemy/Spr_temp_enemy.yy",
+    "name": "Spr_temp_enemy3",
+    "path": "sprites/Spr_temp_enemy3/Spr_temp_enemy3.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "Obj_enemy_1",
-    "path": "objects/Obj_enemy_1/Obj_enemy_1.yy",
+    "name": "Obj_enemy_base",
+    "path": "objects/Obj_enemy_base/Obj_enemy_base.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -26,7 +26,7 @@
   "eventList": [],
   "properties": [],
   "overriddenProperties": [
-    {"propertyId":{"name":"damage","path":"objects/Obj_enemy_1/Obj_enemy_1.yy",},"objectId":{"name":"Obj_enemy_1","path":"objects/Obj_enemy_1/Obj_enemy_1.yy",},"value":"50","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"Obj_enemy_1","path":"objects/Obj_enemy_1/Obj_enemy_1.yy",},"objectId":{"name":"Obj_enemy_1","path":"objects/Obj_enemy_1/Obj_enemy_1.yy",},"value":"50","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Objects",
