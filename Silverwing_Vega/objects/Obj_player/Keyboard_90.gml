@@ -11,11 +11,12 @@ if(can_shoot)
 	/// @DnDParent : 4E6CEA89
 	/// @DnDArgument : "xpos" "32"
 	/// @DnDArgument : "xpos_relative" "1"
+	/// @DnDArgument : "ypos" "12"
 	/// @DnDArgument : "ypos_relative" "1"
 	/// @DnDArgument : "objectid" "Obj_PlayerShot"
 	/// @DnDArgument : "layer" ""Instances_shots""
 	/// @DnDSaveInfo : "objectid" "Obj_PlayerShot"
-	instance_create_layer(x + 32, y + 0, "Instances_shots", Obj_PlayerShot);
+	instance_create_layer(x + 32, y + 12, "Instances_shots", Obj_PlayerShot);
 
 	/// @DnDAction : YoYo Games.Instances.Set_Alarm
 	/// @DnDVersion : 1
