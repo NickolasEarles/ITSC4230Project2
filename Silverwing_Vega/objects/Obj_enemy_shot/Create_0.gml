@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 6B21C8D3
+/// @DnDArgument : "soundid" "snd_enemyShot"
+/// @DnDSaveInfo : "soundid" "snd_enemyShot"
+audio_play_sound(snd_enemyShot, 0, 0);
+
 /// @DnDAction : YoYo Games.Movement.Set_Direction_Point
 /// @DnDVersion : 1
 /// @DnDHash : 0232950E
