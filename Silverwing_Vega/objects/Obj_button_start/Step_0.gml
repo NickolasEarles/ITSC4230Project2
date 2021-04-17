@@ -18,6 +18,10 @@ if (l1975557D_0)
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 4703187E
-/// @DnDArgument : "code" "# watch this and figure out how to do this$(13_10)#     https://www.youtube.com/watch?v=zjyiUD1vM1w"
-# watch this and figure out how to do this
-#     https://www.youtube.com/watch?v=zjyiUD1vM1w
+/// @DnDArgument : "code" "if (mouse_check_button(mb_left)) {$(13_10)	if (mouse_x >= bbox_left and mouse_x <= bbox_right and$(13_10)		mouse_y >= bbox_top and mouse_y <= bbox_bottom) {$(13_10)			room_goto(level_1)$(13_10)		}$(13_10)}	$(13_10)"
+if (mouse_check_button(mb_left)) {
+	if (mouse_x >= bbox_left and mouse_x <= bbox_right and
+		mouse_y >= bbox_top and mouse_y <= bbox_bottom) {
+			room_goto(level_1)
+		}
+}
