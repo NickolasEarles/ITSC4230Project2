@@ -1,0 +1,28 @@
+*****************************************************************************************
+				Licensing Information	
+*****************************************************************************************
+_________________________________________________________________________________________
+					Sounds						  
+_________________________________________________________________________________________				      
+			snd_crash by Christina M. Sarkisyan (2021).
+			snd_enemyShot by Christina M. Sarkisyan	(2021).
+			snd_playerShot by Christina M. Sarkisyan (2021).
+
+
+_________________________________________________________________________________________
+					Sprites						  
+_________________________________________________________________________________________
+
+			title by Christina M. Sarkisyan	(2021).
+			projectile_rock	by Christina M. Sarkisyan (2021).
+			player by Christina M. Sarkisyan (2021).
+			background tile by Christina M. Sarkisyan (2021).
+
+		foe_temp by Nickolas C. Earles and Christina M. Sarkisyan (2021).
+		foe_temp_dead by Nickolas C. Earles and Christina M. Sarkisyan (2021).
+		
+ee786d1b-454d-4688-909c-dea780b262d9 (aka Spr_button_start) by Christina M. Sarkisyan (2021).
+0c2f6922-0fa0-44ea-a879-5bd969e7f624 (aka Spr_enemy_shot1) by Christina M. Sarkisyan (2021).
+d30e2da7-cfd0-4dd7-a4b4-125c640fc745 (aka Spr_player_shot) by Christina M. Sarkisyan (2021).
+
+you win message by RATOCA (adobestock.com) https://stock.adobe.com/images/you-win-message/314566645 (used for Spr_tempwin) 
