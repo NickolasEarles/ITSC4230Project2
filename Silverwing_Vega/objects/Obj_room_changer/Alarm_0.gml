@@ -16,8 +16,8 @@
 /// @DnDHash : 4A26B166
 /// @DnDComment : curently set to player shot -- change to teleport sound when one is created$(13_10)
 /// @DnDDisabled : 1
-/// @DnDArgument : "soundid" "snd_playerShot"
-/// @DnDSaveInfo : "soundid" "snd_playerShot"
+/// @DnDArgument : "soundid" "snd_teleport"
+/// @DnDSaveInfo : "soundid" "snd_teleport"
 
 
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
