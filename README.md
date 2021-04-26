@@ -17,7 +17,7 @@ Cheats (inside of obj_healthbar):
 -escape: exit game
 -R: restart game
 -tab: go to next room -- don't use for now as the rooms don't work right yet
-
+__________________________________________________________________________________________________________
 
 Level 1:
 Just lots of dasher drones and debris out in deep space
@@ -52,3 +52,23 @@ Lots of solarin fighters, and ground artillery
 
 Level 6: boss
 
+____________________________________________________________________________________________________________
+
+sprites left to make:
+
+SOUNDS:
+-portal
+-soundtrack
+-powerup
+
+IMAGES:
+-enemies basic
+-sheild
+-portal
+-space station
+-the end
+-animated player
+-animated enemy 1
+-animated enemy 2
+-animated enemy 3
+-bomb explosion
