@@ -39,6 +39,7 @@
     {"id":{"name":"Spr_temp_rubble","path":"sprites/Spr_temp_rubble/Spr_temp_rubble.yy",},"order":6,},
     {"id":{"name":"how_to","path":"rooms/how_to/how_to.yy",},"order":1,},
     {"id":{"name":"level_2","path":"rooms/level_2/level_2.yy",},"order":4,},
+    {"id":{"name":"Spr_ice_spikes","path":"sprites/Spr_ice_spikes/Spr_ice_spikes.yy",},"order":16,},
     {"id":{"name":"Obj_enemy_base","path":"objects/Obj_enemy_base/Obj_enemy_base.yy",},"order":10,},
     {"id":{"name":"snd_playerShot","path":"sounds/snd_playerShot/snd_playerShot.yy",},"order":0,},
     {"id":{"name":"level_5","path":"rooms/level_5/level_5.yy",},"order":6,},
