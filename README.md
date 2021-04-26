@@ -11,6 +11,7 @@ TODO:
 	-change sprite to dead sprite
 		-sets self.hspeed = room.hspeed
 -desroy player and enemies on colision with obj_block
+- make sure the teleport code works (some code was added but disabled for now
 
 
 
