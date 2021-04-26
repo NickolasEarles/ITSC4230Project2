@@ -13,7 +13,10 @@ TODO:
 -desroy player and enemies on colision with obj_block
 - make sure the teleport code works (some code was added but disabled for now
 
-
+Cheats (inside of obj_healthbar):
+-escape: exit game
+-R: restart game
+-tab: go to next room -- don't use for now as the rooms don't work right yet
 
 
 Level 1:
