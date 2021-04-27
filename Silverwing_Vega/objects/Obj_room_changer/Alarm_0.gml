@@ -20,8 +20,14 @@
 /// @DnDSaveInfo : "soundid" "snd_teleport"
 
 
+/// @DnDAction : YoYo Games.Rooms.Next_Room
+/// @DnDVersion : 1
+/// @DnDHash : 4B3A84BE
+/// @DnDComment : so that it gors in order$(13_10)
+room_goto_next();
+
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
 /// @DnDHash : 7EBB9675
+/// @DnDDisabled : 1
 /// @DnDArgument : "room" "targetroom"
-room_goto(targetroom);
