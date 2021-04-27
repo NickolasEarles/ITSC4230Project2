@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_temp_enemy2",
-    "path": "sprites/Spr_temp_enemy2/Spr_temp_enemy2.yy",
+    "name": "Spr_fighter",
+    "path": "sprites/Spr_fighter/Spr_fighter.yy",
   },
   "solid": false,
   "visible": true,
