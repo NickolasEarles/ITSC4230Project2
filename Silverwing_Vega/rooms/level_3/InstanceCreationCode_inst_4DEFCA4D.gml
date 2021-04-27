@@ -1,2 +1,2 @@
 alarm_set(0, 720);
-targetroom = End;
+targetroom = level_4;
