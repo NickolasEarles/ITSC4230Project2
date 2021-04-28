@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_teleport.mp3",
-  "duration": 0.527449,
+  "duration": 1.049898,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
