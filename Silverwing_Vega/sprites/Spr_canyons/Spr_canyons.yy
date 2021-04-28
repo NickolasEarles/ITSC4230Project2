@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 2047,
-  "bbox_top": 219,
-  "bbox_bottom": 1023,
+  "bbox_right": 1023,
+  "bbox_top": 108,
+  "bbox_bottom": 511,
   "HTile": true,
   "VTile": false,
   "For3D": false,
-  "width": 2048,
-  "height": 1024,
+  "width": 1024,
+  "height": 512,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"d12146a1-f1e9-48e4-918a-e880e96f42f9","path":"sprites/Spr_canyons/Spr_canyons.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d12146a1-f1e9-48e4-918a-e880e96f42f9","path":"sprites/Spr_canyons/Spr_canyons.yy",},"LayerId":{"name":"15a8aeb1-2d85-409e-9b6f-1f82671b5af1","path":"sprites/Spr_canyons/Spr_canyons.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Spr_canyons","path":"sprites/Spr_canyons/Spr_canyons.yy",},"resourceVersion":"1.0","name":"d12146a1-f1e9-48e4-918a-e880e96f42f9","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c5b9a44f-7f23-4450-895c-c1fd57ffb5aa","path":"sprites/Spr_canyons/Spr_canyons.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c5b9a44f-7f23-4450-895c-c1fd57ffb5aa","path":"sprites/Spr_canyons/Spr_canyons.yy",},"LayerId":{"name":"713966d8-ac4f-44d0-8b19-313a594cae77","path":"sprites/Spr_canyons/Spr_canyons.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Spr_canyons","path":"sprites/Spr_canyons/Spr_canyons.yy",},"resourceVersion":"1.0","name":"c5b9a44f-7f23-4450-895c-c1fd57ffb5aa","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"Spr_canyons","path":"sprites/Spr_canyons/Spr_canyons.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"f43a9b26-d5ac-4702-add1-7fb4dc0c40e9","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d12146a1-f1e9-48e4-918a-e880e96f42f9","path":"sprites/Spr_canyons/Spr_canyons.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"af4948d6-8505-45f3-9419-ffb2e127e0ad","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c5b9a44f-7f23-4450-895c-c1fd57ffb5aa","path":"sprites/Spr_canyons/Spr_canyons.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"15a8aeb1-2d85-409e-9b6f-1f82671b5af1","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"713966d8-ac4f-44d0-8b19-313a594cae77","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
