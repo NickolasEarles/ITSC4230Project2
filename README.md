@@ -16,7 +16,7 @@ TODO:
 Cheats (inside of obj_healthbar):
 -escape: exit game
 -R: restart game
--tab: go to next room -- don't use for now as the rooms don't work right yet
+-tab: go to next room -- don't use until after the dtart screen
 __________________________________________________________________________________________________________
 
 Level 1:
