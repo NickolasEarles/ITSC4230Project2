@@ -20,7 +20,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":true,"eventNum":7,"eventType":7,"collisionObjectId":null,"parent":{"name":"Obj_portal","path":"objects/Obj_portal/Obj_portal.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
