@@ -34,6 +34,7 @@
   "overriddenProperties": [
     {"propertyId":{"name":"Obj_enemy_1","path":"objects/Obj_enemy_1/Obj_enemy_1.yy",},"objectId":{"name":"Obj_enemy_1","path":"objects/Obj_enemy_1/Obj_enemy_1.yy",},"value":"25","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"path_cur","path":"objects/Obj_enemy_base/Obj_enemy_base.yy",},"objectId":{"name":"Obj_enemy_base","path":"objects/Obj_enemy_base/Obj_enemy_base.yy",},"value":"Path2","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"points","path":"objects/Obj_enemy_base/Obj_enemy_base.yy",},"objectId":{"name":"Obj_enemy_base","path":"objects/Obj_enemy_base/Obj_enemy_base.yy",},"value":"10","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Objects",
