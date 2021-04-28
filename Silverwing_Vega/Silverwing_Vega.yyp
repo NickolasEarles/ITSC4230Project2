@@ -28,6 +28,7 @@
     {"id":{"name":"snd_teleport","path":"sounds/snd_teleport/snd_teleport.yy",},"order":3,},
     {"id":{"name":"level_1","path":"rooms/level_1/level_1.yy",},"order":2,},
     {"id":{"name":"Obj_enemy_1","path":"objects/Obj_enemy_1/Obj_enemy_1.yy",},"order":4,},
+    {"id":{"name":"Spr_sheild","path":"sprites/Spr_sheild/Spr_sheild.yy",},"order":25,},
     {"id":{"name":"Obj_bomb","path":"objects/Obj_bomb/Obj_bomb.yy",},"order":16,},
     {"id":{"name":"Obj_portal","path":"objects/Obj_portal/Obj_portal.yy",},"order":14,},
     {"id":{"name":"Spr_temp_enemy1","path":"sprites/Spr_temp_enemy1/Spr_temp_enemy1.yy",},"order":5,},
