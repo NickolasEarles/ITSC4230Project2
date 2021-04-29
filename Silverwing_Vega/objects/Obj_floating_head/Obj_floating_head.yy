@@ -27,7 +27,6 @@
     {"isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"Obj_floating_head","path":"objects/Obj_floating_head/Obj_floating_head.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"Obj_floating_head","path":"objects/Obj_floating_head/Obj_floating_head.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":0,"eventType":2,"collisionObjectId":null,"parent":{"name":"Obj_floating_head","path":"objects/Obj_floating_head/Obj_floating_head.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"parent":{"name":"Obj_floating_head","path":"objects/Obj_floating_head/Obj_floating_head.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [
