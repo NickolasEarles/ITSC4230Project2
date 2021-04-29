@@ -70,6 +70,7 @@
     {"id":{"name":"Spr_canyons","path":"sprites/Spr_canyons/Spr_canyons.yy",},"order":13,},
     {"id":{"name":"Spr_player","path":"sprites/Spr_player/Spr_player.yy",},"order":4,},
     {"id":{"name":"animation_template","path":"sprites/animation_template/animation_template.yy",},"order":0,},
+    {"id":{"name":"Obj_soundbox","path":"objects/Obj_soundbox/Obj_soundbox.yy",},"order":22,},
     {"id":{"name":"Spr_bomber","path":"sprites/Spr_bomber/Spr_bomber.yy",},"order":17,},
     {"id":{"name":"title_screen","path":"rooms/title_screen/title_screen.yy",},"order":0,},
   ],
