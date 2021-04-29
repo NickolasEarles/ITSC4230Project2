@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"f36e74b1-a185-4889-8e39-4f65324c426e","path":"sprites/Spr_fighter_firing/Spr_fighter_firing.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"f36e74b1-a185-4889-8e39-4f65324c426e","path":"sprites/Spr_fighter_firing/Spr_fighter_firing.yy",},"LayerId":{"name":"c47a457a-0a25-478d-aada-a50082448d4c","path":"sprites/Spr_fighter_firing/Spr_fighter_firing.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Spr_fighter_firing","path":"sprites/Spr_fighter_firing/Spr_fighter_firing.yy",},"resourceVersion":"1.0","name":"f36e74b1-a185-4889-8e39-4f65324c426e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"3a3e8279-1ecd-4dee-b299-055e1cb24fe9","path":"sprites/Spr_fighter_firing/Spr_fighter_firing.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"3a3e8279-1ecd-4dee-b299-055e1cb24fe9","path":"sprites/Spr_fighter_firing/Spr_fighter_firing.yy",},"LayerId":{"name":"0f53322e-6f60-4910-9fc8-c3abb5eee1fb","path":"sprites/Spr_fighter_firing/Spr_fighter_firing.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Spr_fighter_firing","path":"sprites/Spr_fighter_firing/Spr_fighter_firing.yy",},"resourceVersion":"1.0","name":"3a3e8279-1ecd-4dee-b299-055e1cb24fe9","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"Spr_fighter_firing","path":"sprites/Spr_fighter_firing/Spr_fighter_firing.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"16643cf3-8570-4b57-a7b5-6bf12bbd9772","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f36e74b1-a185-4889-8e39-4f65324c426e","path":"sprites/Spr_fighter_firing/Spr_fighter_firing.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"5885a364-cb59-4a02-b86d-04295eca66f1","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3a3e8279-1ecd-4dee-b299-055e1cb24fe9","path":"sprites/Spr_fighter_firing/Spr_fighter_firing.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c47a457a-0a25-478d-aada-a50082448d4c","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"0f53322e-6f60-4910-9fc8-c3abb5eee1fb","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",
