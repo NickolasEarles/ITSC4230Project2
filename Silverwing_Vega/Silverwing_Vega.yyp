@@ -51,6 +51,7 @@
     {"id":{"name":"Spr_bomb_explosion","path":"sprites/Spr_bomb_explosion/Spr_bomb_explosion.yy",},"order":23,},
     {"id":{"name":"how_to","path":"rooms/how_to/how_to.yy",},"order":1,},
     {"id":{"name":"Spr_fighter_shot","path":"sprites/Spr_fighter_shot/Spr_fighter_shot.yy",},"order":22,},
+    {"id":{"name":"Obj_sheild","path":"objects/Obj_sheild/Obj_sheild.yy",},"order":19,},
     {"id":{"name":"level_2","path":"rooms/level_2/level_2.yy",},"order":4,},
     {"id":{"name":"Spr_ice_spikes","path":"sprites/Spr_ice_spikes/Spr_ice_spikes.yy",},"order":16,},
     {"id":{"name":"you_lose","path":"rooms/you_lose/you_lose.yy",},"order":9,},
