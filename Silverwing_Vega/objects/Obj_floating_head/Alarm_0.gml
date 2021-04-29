@@ -3,10 +3,10 @@
 /// @DnDHash : 761C48C1
 /// @DnDArgument : "xpos_relative" "1"
 /// @DnDArgument : "ypos_relative" "1"
-/// @DnDArgument : "objectid" "Obj_rainbow_shot"
+/// @DnDArgument : "objectid" "Obj_enemy_shot"
 /// @DnDArgument : "layer" ""Instances_shots""
-/// @DnDSaveInfo : "objectid" "Obj_rainbow_shot"
-instance_create_layer(x + 0, y + 0, "Instances_shots", Obj_rainbow_shot);
+/// @DnDSaveInfo : "objectid" "Obj_enemy_shot"
+instance_create_layer(x + 0, y + 0, "Instances_shots", Obj_enemy_shot);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
