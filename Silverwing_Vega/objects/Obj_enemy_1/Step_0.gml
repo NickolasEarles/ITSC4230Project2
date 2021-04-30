@@ -52,6 +52,13 @@ if(l45F10513_0)
 		/// @DnDArgument : "y" "Obj_player.y"
 		direction = point_direction(x, y, Obj_player.x, Obj_player.y);
 	
+		/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
+		/// @DnDVersion : 1
+		/// @DnDHash : 7D5D3DDD
+		/// @DnDParent : 1E8C1562
+		/// @DnDArgument : "angle" "direction+180"
+		image_angle = direction+180;
+	
 		/// @DnDAction : YoYo Games.Movement.Set_Speed
 		/// @DnDVersion : 1
 		/// @DnDHash : 12FB21CC

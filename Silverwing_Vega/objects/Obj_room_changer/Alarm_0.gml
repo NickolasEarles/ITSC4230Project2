@@ -6,10 +6,10 @@
 /// @DnDArgument : "xpos_relative" "1"
 /// @DnDArgument : "ypos_relative" "1"
 /// @DnDArgument : "objectid" "Obj_portal"
-/// @DnDArgument : "layer" ""overlay""
+/// @DnDArgument : "layer" ""Instances_Overlay""
 /// @DnDSaveInfo : "objectid" "Obj_portal"
 with(Obj_player) {
-	instance_create_layer(x + 0, y + 0, "overlay", Obj_portal); 
+	instance_create_layer(x + 0, y + 0, "Instances_Overlay", Obj_portal); 
 }
 
 /// @DnDAction : YoYo Games.Audio.Play_Audio

@@ -12,6 +12,12 @@ audio_play_sound(snd_enemyShot, 0, 0);
 /// @DnDArgument : "y" "Obj_player.y"
 direction = point_direction(x, y, Obj_player.x, Obj_player.y);
 
+/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
+/// @DnDVersion : 1
+/// @DnDHash : 0056BDFF
+/// @DnDArgument : "angle" "direction+180"
+image_angle = direction+180;
+
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 2F5A4DF6

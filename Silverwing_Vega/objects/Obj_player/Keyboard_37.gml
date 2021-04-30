@@ -1,9 +1,7 @@
-/// @DnDAction : YoYo Games.Movement.Jump_To_Point
+/// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
-/// @DnDHash : 7BDFCC7C
-/// @DnDArgument : "x" "-8"
-/// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y" "0"
-/// @DnDArgument : "y_relative" "1"
-x += -8;
-y += 0;
+/// @DnDHash : 0BA54731
+/// @DnDArgument : "speed" "-2"
+/// @DnDArgument : "speed_relative" "1"
+/// @DnDArgument : "type" "1"
+hspeed += -2;

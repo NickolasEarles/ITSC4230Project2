@@ -1,3 +1,11 @@
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 1AA77A5E
+/// @DnDArgument : "spriteind" "Spr_fighter_firing"
+/// @DnDSaveInfo : "spriteind" "Spr_fighter_firing"
+sprite_index = Spr_fighter_firing;
+image_index = 0;
+
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 11151576
