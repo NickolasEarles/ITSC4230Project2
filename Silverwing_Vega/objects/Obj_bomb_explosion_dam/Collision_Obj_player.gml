@@ -2,11 +2,11 @@
 /// @DnDVersion : 1
 /// @DnDHash : 19DC7355
 /// @DnDApplyTo : other
-/// @DnDArgument : "expr" "-20"
+/// @DnDArgument : "expr" "-10"
 /// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "hp"
 with(other) {
-hp += -20;
+hp += -10;
 
 }
 

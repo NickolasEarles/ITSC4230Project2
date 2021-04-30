@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Paths.Start_Path
+/// @DnDVersion : 1.1
+/// @DnDHash : 184FD692
+/// @DnDArgument : "path" "Path4_6"
+/// @DnDSaveInfo : "path" "Path4_6"
+path_start(Path4_6, 1, path_action_stop, false);
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 34AB31FC
