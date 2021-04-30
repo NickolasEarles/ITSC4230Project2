@@ -155,3 +155,21 @@ if(hspeed < 0)
 	/// @DnDArgument : "var" "hspeed"
 	hspeed += .5;
 }
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 4330CEB7
+/// @DnDArgument : "var" "shield_charge"
+/// @DnDArgument : "op" "1"
+/// @DnDArgument : "value" "60"
+if(shield_charge < 60)
+{
+	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 6D947CBC
+	/// @DnDParent : 4330CEB7
+	/// @DnDArgument : "expr" "1"
+	/// @DnDArgument : "expr_relative" "1"
+	/// @DnDArgument : "var" "shield_charge"
+	shield_charge += 1;
+}

@@ -4,10 +4,10 @@
 /// @DnDInput : 3
 /// @DnDArgument : "expr" "8"
 /// @DnDArgument : "expr_1" "6"
-/// @DnDArgument : "expr_2" "4"
+/// @DnDArgument : "expr_2" "2"
 /// @DnDArgument : "var" "spawn_1"
 /// @DnDArgument : "var_1" "spawn_2"
 /// @DnDArgument : "var_2" "spawn_3"
 spawn_1 = 8;
 spawn_2 = 6;
-spawn_3 = 4;
+spawn_3 = 2;
