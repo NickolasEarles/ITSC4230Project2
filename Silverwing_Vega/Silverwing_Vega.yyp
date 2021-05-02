@@ -93,6 +93,7 @@
     {"id":{"name":"Obj_enemy_base","path":"objects/Obj_enemy_base/Obj_enemy_base.yy",},"order":10,},
     {"id":{"name":"snd_playerShot","path":"sounds/snd_playerShot/snd_playerShot.yy",},"order":0,},
     {"id":{"name":"level_5","path":"rooms/level_5/level_5.yy",},"order":6,},
+    {"id":{"name":"snd_soundtrackIntro","path":"sounds/snd_soundtrackIntro/snd_soundtrackIntro.yy",},"order":6,},
     {"id":{"name":"Spr_canyons","path":"sprites/Spr_canyons/Spr_canyons.yy",},"order":12,},
     {"id":{"name":"Path2_4","path":"paths/Path2_4/Path2_4.yy",},"order":13,},
     {"id":{"name":"Path1_2","path":"paths/Path1_2/Path1_2.yy",},"order":6,},
@@ -101,6 +102,7 @@
     {"id":{"name":"Obj_soundbox","path":"objects/Obj_soundbox/Obj_soundbox.yy",},"order":22,},
     {"id":{"name":"Obj_boss_death","path":"objects/Obj_boss_death/Obj_boss_death.yy",},"order":27,},
     {"id":{"name":"Spr_bomber","path":"sprites/Spr_bomber/Spr_bomber.yy",},"order":16,},
+    {"id":{"name":"snd_soundtrackLoopPortion","path":"sounds/snd_soundtrackLoopPortion/snd_soundtrackLoopPortion.yy",},"order":7,},
     {"id":{"name":"title_screen","path":"rooms/title_screen/title_screen.yy",},"order":0,},
   ],
   "Options": [
