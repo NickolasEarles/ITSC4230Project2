@@ -1,6 +1,6 @@
 {
   "compression": 0,
-  "volume": 0.8,
+  "volume": 0.65,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_chant_deep.mp3",
-  "duration": 7.058061,
+  "soundFile": "snd_BossSoundtrack.wav",
+  "duration": 19.205,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "snd_chant_deep",
+  "name": "snd_BossSoundtrack",
   "tags": [],
   "resourceType": "GMSound",
 }

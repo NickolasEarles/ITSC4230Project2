@@ -55,6 +55,7 @@
     {"id":{"name":"Spr_temp_enemy1","path":"sprites/Spr_temp_enemy1/Spr_temp_enemy1.yy",},"order":4,},
     {"id":{"name":"Spr_bomb","path":"sprites/Spr_bomb/Spr_bomb.yy",},"order":20,},
     {"id":{"name":"Spr_button_start","path":"sprites/Spr_button_start/Spr_button_start.yy",},"order":3,},
+    {"id":{"name":"snd_BossSoundtrack","path":"sounds/snd_BossSoundtrack/snd_BossSoundtrack.yy",},"order":8,},
     {"id":{"name":"persistentObj","path":"objects/persistentObj/persistentObj.yy",},"order":29,},
     {"id":{"name":"Spr_blk_hole","path":"sprites/Spr_blk_hole/Spr_blk_hole.yy",},"order":26,},
     {"id":{"name":"Spr_floating_head","path":"sprites/Spr_floating_head/Spr_floating_head.yy",},"order":30,},
