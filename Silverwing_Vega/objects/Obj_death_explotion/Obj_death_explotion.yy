@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_bomb_explosion",
-    "path": "sprites/Spr_bomb_explosion/Spr_bomb_explosion.yy",
+    "name": "Spr_enemy_Death",
+    "path": "sprites/Spr_enemy_Death/Spr_enemy_Death.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_boss_death_explotion",
+  "name": "Obj_death_explotion",
   "tags": [],
   "resourceType": "GMObject",
 }

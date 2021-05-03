@@ -2,8 +2,10 @@
 /// @DnDVersion : 1.1
 /// @DnDHash : 184FD692
 /// @DnDArgument : "path" "Path4_6"
+/// @DnDArgument : "speed" "4"
+/// @DnDArgument : "atend" "path_action_continue"
 /// @DnDSaveInfo : "path" "Path4_6"
-path_start(Path4_6, 1, path_action_stop, false);
+path_start(Path4_6, 4, path_action_continue, false);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

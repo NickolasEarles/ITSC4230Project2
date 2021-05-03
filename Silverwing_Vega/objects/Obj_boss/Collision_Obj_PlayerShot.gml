@@ -9,6 +9,6 @@ image_index = 0;
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 6FCFF412
-/// @DnDArgument : "steps" "90"
+/// @DnDArgument : "steps" "60"
 /// @DnDArgument : "alarm" "2"
-alarm_set(2, 90);
+alarm_set(2, 60);

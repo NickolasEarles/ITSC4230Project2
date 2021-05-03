@@ -57,5 +57,5 @@ temp_x = floor(random_range(0, 300 + 1));
 /// @DnDHash : 7E62D9BC
 /// @DnDArgument : "var" "temp_y"
 /// @DnDArgument : "type" "1"
-/// @DnDArgument : "max" "500"
-temp_y = floor(random_range(0, 500 + 1));
+/// @DnDArgument : "max" "300"
+temp_y = floor(random_range(0, 300 + 1));
