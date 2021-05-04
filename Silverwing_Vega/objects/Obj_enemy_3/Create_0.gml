@@ -39,6 +39,7 @@ if(room_cur == level_2)
 	/// @DnDParent : 37A54515
 	/// @DnDArgument : "path" "Path3_2"
 	/// @DnDArgument : "speed" "hsp"
+	/// @DnDSaveInfo : "path" "Path3_2"
 	path_start(Path3_2, hsp, path_action_stop, false);
 }
 
@@ -55,6 +56,7 @@ if(room_cur == level_3)
 	/// @DnDParent : 2410D7B9
 	/// @DnDArgument : "path" "Path3_3"
 	/// @DnDArgument : "speed" "hsp"
+	/// @DnDSaveInfo : "path" "Path3_3"
 	path_start(Path3_3, hsp, path_action_stop, false);
 }
 
@@ -71,6 +73,7 @@ if(room_cur == level_4)
 	/// @DnDParent : 28E40A0F
 	/// @DnDArgument : "path" "Path3_4"
 	/// @DnDArgument : "speed" "hsp"
+	/// @DnDSaveInfo : "path" "Path3_4"
 	path_start(Path3_4, hsp, path_action_stop, false);
 }
 
@@ -87,6 +90,7 @@ if(room_cur == level_5)
 	/// @DnDParent : 0DA54E2C
 	/// @DnDArgument : "path" "Path3_5"
 	/// @DnDArgument : "speed" "hsp"
+	/// @DnDSaveInfo : "path" "Path3_5"
 	path_start(Path3_5, hsp, path_action_stop, false);
 }
 
