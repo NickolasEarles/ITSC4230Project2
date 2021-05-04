@@ -24,24 +24,32 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"43097147-7925-49c4-8111-2130345d7154","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"43097147-7925-49c4-8111-2130345d7154","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},"LayerId":{"name":"9454d32e-a058-4e27-b9d0-75995b13d23d","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Spr_Eldritch_Boss_back","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},"resourceVersion":"1.0","name":"43097147-7925-49c4-8111-2130345d7154","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"12becf70-7dc7-4b1f-a538-8f6f2b9fe484","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"12becf70-7dc7-4b1f-a538-8f6f2b9fe484","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},"LayerId":{"name":"e615e1fa-6671-4b2d-8616-685b4c1404e1","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Spr_Eldritch_Boss_back","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},"resourceVersion":"1.0","name":"12becf70-7dc7-4b1f-a538-8f6f2b9fe484","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"59db1e1f-2d69-409a-9de0-72786be46be2","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"59db1e1f-2d69-409a-9de0-72786be46be2","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},"LayerId":{"name":"e615e1fa-6671-4b2d-8616-685b4c1404e1","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Spr_Eldritch_Boss_back","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},"resourceVersion":"1.0","name":"59db1e1f-2d69-409a-9de0-72786be46be2","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0af20e0e-313b-4889-8926-da13c4a33a02","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0af20e0e-313b-4889-8926-da13c4a33a02","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},"LayerId":{"name":"e615e1fa-6671-4b2d-8616-685b4c1404e1","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Spr_Eldritch_Boss_back","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},"resourceVersion":"1.0","name":"0af20e0e-313b-4889-8926-da13c4a33a02","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"Spr_Eldritch_Boss_back","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 30.0,
+    "playbackSpeed": 1.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 1.0,
+    "length": 3.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"0ea51088-1fe7-4a93-a72a-aa6928160e5a","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"43097147-7925-49c4-8111-2130345d7154","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d73a840d-ffb7-4354-a3e9-de2d3a471161","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"12becf70-7dc7-4b1f-a538-8f6f2b9fe484","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"83bfe28c-228b-4501-b74f-6a476b7b7886","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"59db1e1f-2d69-409a-9de0-72786be46be2","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"01abab1e-1f8c-4c84-8813-ced4499e097d","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0af20e0e-313b-4889-8926-da13c4a33a02","path":"sprites/Spr_Eldritch_Boss_back/Spr_Eldritch_Boss_back.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,9 +73,8 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9454d32e-a058-4e27-b9d0-75995b13d23d","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e615e1fa-6671-4b2d-8616-685b4c1404e1","tags":[],"resourceType":"GMImageLayer",},
   ],
-  "nineSlice": null,
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
