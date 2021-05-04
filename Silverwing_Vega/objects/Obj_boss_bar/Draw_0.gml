@@ -22,4 +22,22 @@ if(l5A5748D2_0)
 	/// @DnDArgument : "mincol" "$FF000089"
 	/// @DnDArgument : "maxcol" "$FF600463"
 	draw_healthbar(1112, 8, 1368, 32, Obj_boss.hp, $FF000000 & $FFFFFF, $FF000089 & $FFFFFF, $FF600463 & $FFFFFF, 1, (($FF000000>>24) != 0), (($FF00FF00>>24) != 0));
+
+	/// @DnDAction : YoYo Games.Common.If_Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 2919D857
+	/// @DnDParent : 5A5748D2
+	/// @DnDArgument : "var" "Obj_boss.hp"
+	/// @DnDArgument : "op" "3"
+	if(Obj_boss.hp <= 0)
+	{
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 16173426
+		/// @DnDParent : 2919D857
+		/// @DnDArgument : "expr" "Obj_boss.points"
+		/// @DnDArgument : "expr_relative" "1"
+		/// @DnDArgument : "var" "Obj_player.points"
+		Obj_player.points += Obj_boss.points;
+	}
 }

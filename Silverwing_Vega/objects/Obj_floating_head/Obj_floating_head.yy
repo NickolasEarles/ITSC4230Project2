@@ -31,7 +31,7 @@
   ],
   "properties": [],
   "overriddenProperties": [
-    {"propertyId":{"name":"points","path":"objects/Obj_enemy_base/Obj_enemy_base.yy",},"objectId":{"name":"Obj_enemy_base","path":"objects/Obj_enemy_base/Obj_enemy_base.yy",},"value":"100","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"points","path":"objects/Obj_enemy_base/Obj_enemy_base.yy",},"objectId":{"name":"Obj_enemy_base","path":"objects/Obj_enemy_base/Obj_enemy_base.yy",},"value":"20","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"hp","path":"objects/Obj_enemy_base/Obj_enemy_base.yy",},"objectId":{"name":"Obj_enemy_base","path":"objects/Obj_enemy_base/Obj_enemy_base.yy",},"value":"50","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"Obj_enemy_base","path":"objects/Obj_enemy_base/Obj_enemy_base.yy",},"objectId":{"name":"Obj_enemy_base","path":"objects/Obj_enemy_base/Obj_enemy_base.yy",},"value":"noone","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],

@@ -34,6 +34,7 @@
   ],
   "overriddenProperties": [
     {"propertyId":{"name":"damage","path":"objects/Obj_enemy_base/Obj_enemy_base.yy",},"objectId":{"name":"Obj_enemy_base","path":"objects/Obj_enemy_base/Obj_enemy_base.yy",},"value":"10","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"points","path":"objects/Obj_enemy_base/Obj_enemy_base.yy",},"objectId":{"name":"Obj_enemy_base","path":"objects/Obj_enemy_base/Obj_enemy_base.yy",},"value":"10","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Objects",

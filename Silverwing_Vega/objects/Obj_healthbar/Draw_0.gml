@@ -36,4 +36,14 @@ if(l2FB7E3BC_0)
 	/// @DnDArgument : "mincol" "$FFFF0000"
 	/// @DnDArgument : "maxcol" "$FFFFFF00"
 	draw_healthbar(8, 36, 256, 40, Obj_player.shield_charge, $FF000000 & $FFFFFF, $FFFF0000 & $FFFFFF, $FFFFFF00 & $FFFFFF, 0, (($FF000000>>24) != 0), (($FF000000>>24) != 0));
+
+	/// @DnDAction : YoYo Games.Drawing.Draw_Value
+	/// @DnDVersion : 1
+	/// @DnDHash : 3B74E64D
+	/// @DnDParent : 2FB7E3BC
+	/// @DnDArgument : "x" "8"
+	/// @DnDArgument : "y" "44"
+	/// @DnDArgument : "caption" ""
+	/// @DnDArgument : "var" "Obj_player.points"
+	draw_text(8, 44,  + string(Obj_player.points));
 }
