@@ -1,11 +1,3 @@
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 4EF322E5
-/// @DnDArgument : "expr" "self.points"
-/// @DnDArgument : "expr_relative" "1"
-/// @DnDArgument : "var" "Obj_player.points"
-Obj_player.points += self.points;
-
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 1763E2A9
