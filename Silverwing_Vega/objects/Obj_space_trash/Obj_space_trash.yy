@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "Spr_temp_rubble",
-    "path": "sprites/Spr_temp_rubble/Spr_temp_rubble.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
