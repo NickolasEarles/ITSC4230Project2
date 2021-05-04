@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 0,
-  "bbox_right": 0,
-  "bbox_top": 0,
-  "bbox_bottom": 0,
+  "bbox_left": 5,
+  "bbox_right": 60,
+  "bbox_top": 6,
+  "bbox_bottom": 56,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"a5dd139f-fe63-4173-9e86-21b1e2a9c823","path":"sprites/Spr_enemy_Death/Spr_enemy_Death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"a5dd139f-fe63-4173-9e86-21b1e2a9c823","path":"sprites/Spr_enemy_Death/Spr_enemy_Death.yy",},"LayerId":{"name":"55bb4783-08d2-4e63-970e-090017c6326a","path":"sprites/Spr_enemy_Death/Spr_enemy_Death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"Spr_enemy_Death","path":"sprites/Spr_enemy_Death/Spr_enemy_Death.yy",},"resourceVersion":"1.0","name":"a5dd139f-fe63-4173-9e86-21b1e2a9c823","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"7592d37e-b031-4895-be53-24cb9694b700","path":"sprites/Spr_enemy_Death/Spr_enemy_Death.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"7592d37e-b031-4895-be53-24cb9694b700","path":"sprites/Spr_enemy_Death/Spr_enemy_Death.yy",},"LayerId":{"name":"27d1a406-94b2-4515-b090-59f376870c15","path":"sprites/Spr_enemy_Death/Spr_enemy_Death.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"Spr_enemy_Death","path":"sprites/Spr_enemy_Death/Spr_enemy_Death.yy",},"resourceVersion":"1.0","name":"7592d37e-b031-4895-be53-24cb9694b700","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"Spr_enemy_Death","path":"sprites/Spr_enemy_Death/Spr_enemy_Death.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"08894747-f787-4311-8d62-fca3a9c009a1","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a5dd139f-fe63-4173-9e86-21b1e2a9c823","path":"sprites/Spr_enemy_Death/Spr_enemy_Death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"de4f945e-eaa4-4b8f-8fe1-143f88c3a201","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7592d37e-b031-4895-be53-24cb9694b700","path":"sprites/Spr_enemy_Death/Spr_enemy_Death.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -65,9 +65,8 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"55bb4783-08d2-4e63-970e-090017c6326a","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"27d1a406-94b2-4515-b090-59f376870c15","tags":[],"resourceType":"GMImageLayer",},
   ],
-  "nineSlice": null,
   "parent": {
     "name": "Sprites",
     "path": "folders/Sprites.yy",
