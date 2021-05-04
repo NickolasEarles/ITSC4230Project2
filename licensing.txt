@@ -1,28 +1,99 @@
 *****************************************************************************************
 				Licensing Information	
 *****************************************************************************************
+
+Please see the folder 'reasources audio_visual' for the filenames used in this, as they 
+may vary slightly if the sprite is one of several in a folder for animation, 
+this will be referenced above the list of images in that folder
+
 _________________________________________________________________________________________
-					Sounds						  
+				  	audio						  
 _________________________________________________________________________________________				      
+			chant by Christina M. Sarkisyan (2021).
+			chant_higher_pitch by Christina M. Sarkisyan (2021).
+			death by Christina M. Sarkisyan (2021).
+			portal by Christina M. Sarkisyan (2021).
 			snd_crash by Christina M. Sarkisyan (2021).
 			snd_enemyShot by Christina M. Sarkisyan	(2021).
 			snd_playerShot by Christina M. Sarkisyan (2021).
 
-
+			snd_BossSoundtrack by Mansoor Khan (2021).
+			snd_soundtrackIntro by Mansoor Khan (2021).
+			snd_soundtrackLoopPortion by Mansoor Khan (2021).
 _________________________________________________________________________________________
-					Sprites						  
+					visuals						  
 _________________________________________________________________________________________
+(in main folder 'visuals')
 
 			title by Christina M. Sarkisyan	(2021).
-			projectile_rock	by Christina M. Sarkisyan (2021).
 			player by Christina M. Sarkisyan (2021).
 			background tile by Christina M. Sarkisyan (2021).
+			foe_temp by Nickolas C. Earles and Christina M. Sarkisyan (2021).
+			bomb by Christina M. Sarkisyan (2021).
+			Bomber by Christina M. Sarkisyan (2021).
+			canyons resized by Christina M. Sarkisyan (2021).
+			enemy_death by Christina M. Sarkisyan (2021).
+			enemy_shot by Christina M. Sarkisyan (2021).
+			fighter by Christina M. Sarkisyan (2021).
+			fighter_shooting by Christina M. Sarkisyan (2021).
+			fighter_shot by Christina M. Sarkisyan (2021).
+			ice_spikes_resized by Christina M. Sarkisyan (2021).
+			player_shot by Christina M. Sarkisyan (2021).
+			sheild_resized by Christina M. Sarkisyan (2021).
+			start by Christina M. Sarkisyan	(2021).
+	
+	you win message by RATOCA (adobestock.com) https://stock.adobe.com/images/you-win-message/314566645 
 
-		foe_temp by Nickolas C. Earles and Christina M. Sarkisyan (2021).
-		foe_temp_dead by Nickolas C. Earles and Christina M. Sarkisyan (2021).
-		
-ee786d1b-454d-4688-909c-dea780b262d9 (aka Spr_button_start) by Christina M. Sarkisyan (2021).
-0c2f6922-0fa0-44ea-a879-5bd969e7f624 (aka Spr_enemy_shot1) by Christina M. Sarkisyan (2021).
-d30e2da7-cfd0-4dd7-a4b4-125c640fc745 (aka Spr_player_shot) by Christina M. Sarkisyan (2021).
+(in folder 'boss death') 
 
-you win message by RATOCA (adobestock.com) https://stock.adobe.com/images/you-win-message/314566645 (used for Spr_tempwin) 
+			boss1 by Christina M. Sarkisyan	(2021).
+			boss2 by Christina M. Sarkisyan	(2021).
+			boss3 by Christina M. Sarkisyan	(2021).
+
+(in folder 'boss pre-death')
+	(in folder 'background animation')
+
+			Eldritch_Boss_back1 by Christina M. Sarkisyan (2021).
+			Eldritch_Boss_back2 by Christina M. Sarkisyan (2021).
+			Eldritch_Boss_back3 by Christina M. Sarkisyan (2021).
+
+	(in folder 'eye animation')
+
+			eye_closed by Christina M. Sarkisyan (2021).
+			eye_open_1 by Christina M. Sarkisyan (2021).
+			eye_open_2 by Christina M. Sarkisyan (2021).
+
+(in folder 'explosion layers')
+
+			explosion1 by Christina M. Sarkisyan (2021).
+			explosion2 by Christina M. Sarkisyan (2021).
+			explosion3 by Christina M. Sarkisyan (2021).
+			explosion4 by Christina M. Sarkisyan (2021).
+
+(in folder 'floating head')
+
+			floating_head by Christina M. Sarkisyan (2021).
+			floating_head2 by Christina M. Sarkisyan (2021).
+
+(in folder 'portal')
+
+			p1 by Christina M. Sarkisyan (2021).
+			p2 by Christina M. Sarkisyan (2021).
+			p3 by Christina M. Sarkisyan (2021).
+			p4 by Christina M. Sarkisyan (2021).
+			p5 by Christina M. Sarkisyan (2021).
+			p6 by Christina M. Sarkisyan (2021).
+			p7 by Christina M. Sarkisyan (2021).
+			p8 by Christina M. Sarkisyan (2021).
+			p9 by Christina M. Sarkisyan (2021).
+			p10 by Christina M. Sarkisyan (2021).
+
+(in folder 'YOULOSE')
+
+			1 by Christina M. Sarkisyan (2021).
+			2 by Christina M. Sarkisyan (2021).
+			3 by Christina M. Sarkisyan (2021).
+			4 by Christina M. Sarkisyan (2021).
+			5 by Christina M. Sarkisyan (2021).
+			6 by Christina M. Sarkisyan (2021).
+			7 by Christina M. Sarkisyan (2021).
